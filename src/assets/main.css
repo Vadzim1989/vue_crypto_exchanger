@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Foldit:wght@100..900&family=Matemasie&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: 45% 45% url('./backimg.jpeg') fixed;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Foldit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-size: 4em;
+    font-style: normal;    
+    margin-top: 5rem;
+}
